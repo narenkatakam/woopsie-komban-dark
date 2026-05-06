@@ -1,0 +1,43 @@
+{
+  "name": "woopsie-komban-dark",
+  "displayName": "Woopsie Komban Dark",
+  "description": "A deep, warm dark theme — JetBrains-flavored palette with sky-blue accents. Calm canvas, focused syntax.",
+  "version": "0.1.0",
+  "publisher": "narenkatakam",
+  "author": {
+    "name": "Naren Katakam",
+    "url": "https://www.narenkatakam.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/narenkatakam/woopsie-komban-dark",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narenkatakam/woopsie-komban-dark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/narenkatakam/woopsie-komban-dark/issues"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "jetbrains",
+    "darcula",
+    "warm",
+    "minimal"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Woopsie Komban Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/woopsie-komban-dark-color-theme.json"
+      }
+    ]
+  }
+}
