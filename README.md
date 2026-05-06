@@ -1,6 +1,6 @@
 # Woopsie Komban Dark
 
-A deep, warm dark theme for VS Code. JetBrains-flavored palette — sky-blue accents, sage strings, amber warnings, magenta types — on a calm near-black canvas. Built for long sessions where you want the editor to recede and the code to step forward.
+A deep, warm dark theme for VS Code. Anthropic-influenced earth-orange UI accents, sky-blue function names, sage strings, amber warnings, magenta types — on a calm near-black canvas. Built for long sessions where you want the editor to recede and the code to step forward.
 
 ![Woopsie Komban Dark](./assets/preview.png)
 
@@ -35,7 +35,9 @@ Activate: **F1 → Preferences: Color Theme → Woopsie Komban Dark**.
 | Tab inactive | `#161619` | Subtle layering |
 | Foreground | `#bcbec4` | Primary text |
 | Description | `#7a7e85` | Secondary / inactive |
-| Accent (blue) | `#548af7` | Links, buttons, active borders |
+| Accent (Anthropic orange) | `#d97757` | Links, buttons, active borders, badges, find matches |
+| Accent hover (light) | `#e89378` | Hover/bright states |
+| Accent pressed (deep) | `#c8694a` | Pressed/darker variants |
 | Function (sky) | `#56a8f5` | Function names |
 | Type (magenta) | `#c77dbb` | Types, classes, properties, namespaces |
 | Keyword (orange) | `#cf8e6d` | Keywords, storage, control flow |

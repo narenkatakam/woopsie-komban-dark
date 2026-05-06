@@ -1,8 +1,8 @@
 {
   "name": "woopsie-komban-dark",
   "displayName": "Woopsie Komban Dark",
-  "description": "A deep, warm dark theme — JetBrains-flavored palette with sky-blue accents. Calm canvas, focused syntax.",
-  "version": "0.1.0",
+  "description": "A deep, warm dark theme — Anthropic-influenced earth-orange UI accents over a JetBrains-flavored syntax palette. Calm canvas, focused syntax.",
+  "version": "0.1.1",
   "publisher": "narenkatakam",
   "author": {
     "name": "Naren Katakam",
